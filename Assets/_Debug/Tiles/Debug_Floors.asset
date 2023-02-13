@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b28053e02891ce14b9297100e5178316, type: 3}
   m_Name: Debug_Floors
   m_EditorClassIdentifier: 
-  _isWalkable: 0
+  _isWalkable: 1
   Tiles:
   - {fileID: 11400000, guid: c830bf189e2e3fe4bacb956b5f0d7ee4, type: 2}

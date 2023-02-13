@@ -36,7 +36,7 @@ public class TilemapManager : MonoBehaviour
 
             // Gets Clicked Tile in Tilemap.
             TileBase clickedTile = _tilemap.GetTile(gridPosition);
-            Debug.Log($"[Debug]: Clicked ({gridPosition}), returned ({clickedTile})");
+            Debug.Log($"[Debug]: Clicked ({gridPosition}), returned ({clickedTile.name})");
         }
     }
 }
