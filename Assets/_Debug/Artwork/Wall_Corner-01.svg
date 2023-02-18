@@ -3,16 +3,24 @@
 <svg version="1.1" id="Sidewalk_Wall" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 256 512" style="enable-background:new 0 0 256 512;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#B2D66E;}
-	.st1{fill:#CBA39F;}
-	.st2{fill:#BBBCBE;}
-	.st3{fill:#EAE9EB;}
+	.st0{fill:#CBA39F;}
+	.st1{fill:#BBBCBE;}
+	.st2{fill:#EAE9EB;}
+	.st3{display:none;fill:#B2D66E;}
+	.st4{fill:#B2D66E;}
 </style>
-<polygon class="st0" points="256,448 154,499 154,397 "/>
-<polygon class="st1" points="154,397 154,499 128,512 0,448 128,384 "/>
+<polygon class="st0" points="230,435 154,473 154,397 "/>
+<polygon class="st0" points="154,397 154,499 128,512 0,448 128,384 "/>
 <g id="Wall">
-	<polygon class="st2" points="154,115 154,499 128,512 128,128 	"/>
-	<polygon class="st3" points="154,115 128,128 102,115 128,102 	"/>
-	<polygon class="st2" points="128,128 128,512 102,499 102,115 	"/>
+	<polygon class="st1" points="154,115 154,499 128,512 128,128 	"/>
+	<polygon class="st2" points="154,115 128,128 102,115 128,102 	"/>
+	<polygon class="st1" points="128,128 128,512 102,499 102,115 	"/>
+</g>
+<g id="Wall_00000139253075715178695730000005732400202086810508_">
+	<polygon id="Back" class="st3" points="256,64 256,448 230,461 230,77 	"/>
+	<polygon class="st4" points="256,448 154,499 154,473 230,435 	"/>
+	<polygon id="Top" class="st3" points="256,64 128,128 102,115 230,51 	"/>
+	<polygon id="Front" class="st3" points="128,128 128,512 102,499 102,115 	"/>
+	<polygon id="Paint" class="st3" points="256,64 256,448 128,512 128,128 	"/>
 </g>
 </svg>

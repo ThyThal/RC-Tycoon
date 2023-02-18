@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Sidewalk_Wall" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 256 461" style="enable-background:new 0 0 256 461;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#684D2F;}
+	.st1{fill:#9B7353;}
+	.st2{fill:#B2D66E;}
+	.st3{fill:#7C5B38;}
+	.st4{fill:#B68F66;}
+	.st5{fill:#9B744F;}
+	.st6{fill:#795A37;}
+	.st7{fill:#694C31;}
+</style>
+<polygon class="st0" points="141,326.5 141,454.5 128,461 128,333 "/>
+<g id="Wall">
+	<polygon class="st0" points="243,312.5 243,403.5 230,410 230,306 	"/>
+</g>
+<polygon class="st1" points="230,306 230,410 217,403.5 217,301.5 219,300.5 "/>
+<polygon class="st0" points="39,301.5 39,403.5 26,410 26,306 37,300.5 "/>
+<polygon class="st1" points="26,306 26,410 13,403.5 13,312.5 "/>
+<polygon class="st1" points="128,333 128,461 115,454.5 115,326.5 "/>
+<g id="Wall-2">
+	<polygon class="st2" points="141,376.5 141,389.5 128,383 	"/>
+	<polygon class="st3" points="256,319 256,332 128,396 128,383 	"/>
+</g>
+<polygon class="st4" points="256,319 128,383 0,319 128,255 "/>
+<polygon class="st5" points="128,383 128,396 0,332 0,319 "/>
+<polygon class="st6" points="128,396 128,409 0,345 0,332 "/>
+<g id="Wall-4">
+	<polygon class="st7" points="141,389.5 141,402.5 128,396 	"/>
+	<polygon class="st7" points="256,332 256,345 128,409 128,396 	"/>
+</g>
+</svg>
